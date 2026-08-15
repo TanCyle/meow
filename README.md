@@ -1,3 +1,0 @@
-# meow
-
-Initial repository commit.
